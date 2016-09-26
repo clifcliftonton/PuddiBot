@@ -1,5 +1,7 @@
 # PuddiBot
-
+   
+https://twitter.com/PuddiBot_  
+    
 PuddiBot scours the twitter-verse, mentioning those in its tweets when they have Giga Pudding on their mind.  
   
 The bot uses Tweepy:  
